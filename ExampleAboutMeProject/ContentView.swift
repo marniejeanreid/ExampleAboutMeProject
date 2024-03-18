@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ExampleAboutMeProject
 //
-//  Created by scholar on 3/18/24.
+//  Created by Marnie on 3/18/24.
 //
 
 import SwiftUI
